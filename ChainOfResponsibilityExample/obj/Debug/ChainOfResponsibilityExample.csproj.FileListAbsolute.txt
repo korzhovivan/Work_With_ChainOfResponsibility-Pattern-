@@ -1,0 +1,38 @@
+C:\Users\Sergii\Documents\Visual Studio 2015\Projects\Step\WindowsForms\Week1\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe.config
+C:\Users\Sergii\Documents\Visual Studio 2015\Projects\Step\WindowsForms\Week1\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe
+C:\Users\Sergii\Documents\Visual Studio 2015\Projects\Step\WindowsForms\Week1\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.pdb
+C:\Users\Sergii\Documents\Visual Studio 2015\Projects\Step\WindowsForms\Week1\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.exe
+C:\Users\Sergii\Documents\Visual Studio 2015\Projects\Step\WindowsForms\Week1\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.pdb
+G:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe.config
+G:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.exe
+G:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.pdb
+G:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe
+G:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.pdb
+G:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.csprojResolveAssemblyReference.cache
+F:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe.config
+F:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe
+F:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.pdb
+F:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.csprojResolveAssemblyReference.cache
+F:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.exe
+F:\DP\Lesson4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.pdb
+G:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe.config
+G:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe
+G:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.pdb
+G:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.csprojAssemblyReference.cache
+G:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.csproj.CoreCompileInputs.cache
+G:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.exe
+G:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.pdb
+F:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe.config
+F:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe
+F:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.pdb
+F:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.csprojAssemblyReference.cache
+F:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.csproj.CoreCompileInputs.cache
+F:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.exe
+F:\_\DP\2019\Week1\Examples\Meeting4\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.pdb
+C:\Users\MAK\Desktop\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe.config
+C:\Users\MAK\Desktop\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.exe
+C:\Users\MAK\Desktop\ChainOfResponsibilityExample\ChainOfResponsibilityExample\bin\Debug\ChainOfResponsibilityExample.pdb
+C:\Users\MAK\Desktop\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.csprojAssemblyReference.cache
+C:\Users\MAK\Desktop\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.csproj.CoreCompileInputs.cache
+C:\Users\MAK\Desktop\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.exe
+C:\Users\MAK\Desktop\ChainOfResponsibilityExample\ChainOfResponsibilityExample\obj\Debug\ChainOfResponsibilityExample.pdb
